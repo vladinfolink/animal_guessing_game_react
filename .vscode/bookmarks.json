@@ -1,0 +1,42 @@
+[
+	{
+		"path": "$ROOTPATH$\\src\\Sim\\components\\C.js",
+		"bookmarks": [
+			{
+				"line": 53,
+				"column": 23,
+				"label": "injectDistances()"
+			}
+		]
+	},
+	{
+		"path": "$ROOTPATH$\\src\\Sim\\components\\NeuronBoxes\\NeuronBoxes.js",
+		"bookmarks": [
+			{
+				"line": 41,
+				"column": 20,
+				"label": "sensory collection"
+			}
+		]
+	},
+	{
+		"path": "$ROOTPATH$\\src\\Sim\\Sim.js",
+		"bookmarks": [
+			{
+				"line": 26,
+				"column": 4,
+				"label": "radium2"
+			}
+		]
+	},
+	{
+		"path": "$ROOTPATH$\\src\\EntityApp\\components\\TopMenuEntityApp.js",
+		"bookmarks": [
+			{
+				"line": 75,
+				"column": 19,
+				"label": "resume button"
+			}
+		]
+	}
+]

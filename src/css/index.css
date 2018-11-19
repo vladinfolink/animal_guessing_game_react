@@ -1,0 +1,138 @@
+@font-face {
+  font-family: "Pano";
+  src: url("panama-bold-webfont.woff2") format("woff2"); /* Super Modern Browsers */
+  src: url("panama-bold-webfont.woff") format("woff"); /* Pretty Modern Browsers */
+}
+
+body {
+  background-image: url("./imageAssets/subtle_dots.png");
+  /* background-color: #F5F5F5; */
+  margin: 0;
+  padding: 0;
+  font-family: BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu",
+    "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+  /* font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; */
+}
+
+.pano {
+  font-family: "Pano", BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+}
+.robotoFontLight {
+  font-family: "Roboto", BlinkMacSystemFont, "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+    font-weight: lighter;
+    font-size:16px;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+.boldButton {
+  font-weight: bold;
+}
+.boldText {
+  font-weight: bold;
+}
+.thumb_max {
+  height: 184px;
+}
+.btn.btn-medium.grey.darken-2.pano.one {
+  width: 150px;
+}
+#topMenuItemLogoBelgraft {
+  margin-left: 36px;
+}
+.chip.chipColorPick {
+  width: 180px;
+}
+.rotateTwelve {
+  transform: rotate(-16deg);
+  filter: blur(1px);
+}
+.rotateMinusTwelve {
+  transform: rotate(-16deg);
+  filter: blur(0.3px);
+
+}
+.belowColorPicker {
+  margin-top: 6em;
+}
+.blurIncreaseColorPalette {
+  filter: blur(2px);
+}
+.blurIncreaseColorPaletteLess {
+  filter: blur(0.4px);
+}
+.blurIncreaseColorPaletteLess {
+  filter: blur(0px);
+}
+#colorPickerPalette {
+  margin-right: -590px;
+  margin-bottom: -12px;
+}
+.eyeSVG {
+  height: 100px;
+}
+.stepsPr{
+  word-wrap: break-word;
+}
+.blurCard{
+  filter: blur(.4px);
+}
+li { cursor: pointer; }
+.col { cursor: pointer; }
+
+.sidenav-trigger.pano{
+  cursor: pointer;
+}
+#union_co_side_menu{
+  font-size: 14px;
+  border:0px;
+}
+#union_co_side_menu{
+  border: 0px;
+}
+
+.collection-item.center.transparent.waves-effect.uco{
+  margin-left: -8px;
+  border: 0px;
+}
+.collection-item.center.transparent.waves-effect.uco2{
+  border: 0px;
+}
+#unionGroupLogo{
+  cursor: pointer;
+}
+
+
+  /* #FF5851 */
+
+  .red_item{
+    font-weight: bolder;
+  }
+  #visToggleTransference{
+    /* transform: rotate(-36deg);
+    margin-top: 36px; */
+  }
+
+  .row.container.right.rotateTwelve .chip{
+    height: 16px;
+  }
+.row.rotateMinusTwelve .chip{
+  height: 16px;
+
+}
+.smallCode{
+  font-size: 14px;
+}
+li, .chip{
+  word-wrap: break-word;
+}
